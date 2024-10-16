@@ -9,3 +9,5 @@
 #### 网站
 - [独立开发者工具 & 技术栈](https://chuhai.tools/)
  
+#### 开源
+- [SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate)
