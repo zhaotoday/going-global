@@ -15,6 +15,7 @@
 #### 开源
 - [SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate)
 - [出海工具箱](https://github.com/sdycgtgz/chgjx)
+- [出海营销手册](https://github.com/signerlabs/Marketing-Handbook)
 
 #### 项目收集
 - [Github 、Gitee 优秀的开源项目](https://github.com/chenyl8848/great-open-source-project)
